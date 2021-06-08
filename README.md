@@ -9,6 +9,7 @@ type, work experience and salary offers to the students who got 
 placed. 
 
 We have first cleaned the dataset and done EDA.
+
 **Simoni Agarwal** was responsible for EDA.
 
 We have applied pre-existing machine learning models to predict placement.
