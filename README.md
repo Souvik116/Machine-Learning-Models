@@ -25,4 +25,4 @@ Apart from the above mentioned models, Logistic Regression has also been develop
 and implemented. This is a joint team effort.
 In the end, the best algorithm in terms of accuracy was also found.
 
-The Documentation was done by **Chintan Basrani**.
+The Documentation was handled by **Chintan Basrani**.
