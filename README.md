@@ -8,17 +8,20 @@ education. The data set also includes degree specialization, degree 
 type, work experience and salary offers to the students who got 
 placed. 
 
-I have applied pre-existing machine learning models to predict placement.
+We have first cleaned the dataset and done EDA.
+**Simoni Agarwal** was responsible for EDA.
 
-The models include:
-
+We have applied pre-existing machine learning models to predict placement.
+The models(along with group member name responsible) include:
   
-•	Logistic Regression
+•	Logistic Regression - **Souvik Maity**
 
-•	K Nearest Neighbours
+•	K Nearest Neighbours - **Pranit Ahuja**
 
-•	Random Forest Classification
+•	Random Forest Classification - **Tiasha Majumdar**
 
 Apart from the above mentioned models, Logistic Regression has also been developed from scratch 
-and implemented.
+and implemented. This is a joint team effort.
 In the end, the best algorithm in terms of accuracy was also found.
+
+The Documentation was done by **Chintan Basrani**.
